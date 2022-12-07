@@ -4,6 +4,7 @@ html {scroll-behavior: smooth;}
 body {
 	background-color: #d6d4d9;
 	font-family: "Franklin Gothic Medium";
+	margin:0px;
 }
 
 h1 {
@@ -17,21 +18,24 @@ p {line-height: 150%;}
 /* Bandeau */
 .bandeau {
 	background-color: #515151;
-	margin: -8px;
 	margin-bottom: 3%;
 	height: 180px;
 }
+.search{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-direction: column;
+}
 #barre{
-	margin-top: -4%;
-	margin-left: 36%;
 	width: 410px;
 	background-color: #cccccc;
 	border-radius: 20px;
 	padding: 3px;
+	text-align: center;
 }
-#bouton{
-	margin-top: 1%;
-	margin-left: 46%;
+#bouton{	
+	margin-top: 10px;
 	width: 100px;
 	background-color: #cccccc;
 	border-radius: 20px;
@@ -86,8 +90,8 @@ p {line-height: 150%;}
 	text-align: center;
 	padding-top: 16px;
 	font-style: italic;
-	margin: -8px;
 	margin-top: 3%;
+	bottom:0px;
 }
 
 #footer-index {
@@ -116,3 +120,34 @@ p {line-height: 150%;}
 /* Div horizontales */
 .flex {display: flex;}
 #centre {justify-content: space-around;}
+
+#myBtn {
+	position: fixed;
+	bottom: 20px; 
+	right: 15px;
+	background-color: #515151;
+	color: #4ec004;
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 15px;
+	font-size: 25px;
+}
+
+.productTitle {
+	font-size: x-large;
+	margin-top: 100px;
+	text-align: center;
+	font-style: italic;
+	color: #0b94ba;
+}
+
+.product-flex {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 100px;
+}
+
+.productName {
+	text-decoration: none;
+	color: white;
+}
