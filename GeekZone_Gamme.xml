@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<gamme>
+	<categorie>
+		<nom>Cuisine</nom>
+		<article>
+			<nom>Glaçon Tetris</nom>
+			<description>Plongez ces glaçons Tetris dans votre verre et ceux de vos amis pour recréer des parties interminables ! Un élément geek indispensable pour passer une bonne soirée à se remémorer les jeux de votre enfance ! Regardez les glaçons s'imbriquer les uns sur les autres tout en buvant votre breuvage bien frais.</description>
+			<prix>8,90€</prix>
+			<image>images/cuisine/glacons-tetris.jpg</image>
+			<image>images/cuisine/glacons-tetris (1).jpg</image>
+			<image>images/cuisine/glacons-tetris (2).jpg</image>
+		</article>
+		<article>
+			<nom>Mug Pac-man chaud froid</nom>
+			<description>Fan de Pac-Man, ce mug est fait pour vous ! Froid, c'est une grille de jeu Pac-Man ... Chaud, Pac-Man, les fantômes et les Pac-Gommes apparaissent !</description>
+			<prix>9,90€</prix>
+			<image>images/cuisine/mug-pac-man-chaud-froid.jpg</image>
+		</article>
+		<article>
+			<nom>Magnets Fridgebook</nom>
+			<description>Recréez l'environnement de votre réseau social préféré ... sur votre frigo ! grâce à nos magnets fridgebook. Mettez à jour votre statut et commentaires à l'aide du stylo feutre fourni. </description>
+			<prix>14,90€</prix>
+			<image>images/cuisine/fridgebook-magnet-reseau-social-frigo.jpg</image>
+			<image>images/cuisine/fridgebook-magnet-reseau-social-frigo (1).jpg</image>
+		</article>
+	</categorie>
+	<categorie>
+		<nom>Gadget</nom>
+		<article>
+			<nom>Prise Chargeur USB Robinet</nom>
+			<description>Un chargeur USB totalement geek pour votre smartphone ?</description>
+			<prix>24,90€</prix>
+			<image>images/gadget/prise-chargeur-usb-robinet.jpg</image>
+			<image>images/gadget/prise-chargeur-usb-robinet-1.jpg</image>
+			<image>images/gadget/prise-chargeur-usb-robinet-2.jpg</image>
+		</article>
+		<article>
+			<nom>Souris Optique Pixel</nom>
+			<description>Fatigué de votre banale souris ? Adoptez cette souris optique filaire en forme d'icône géante de pointeur de souris ! </description>
+			<prix>17,90€</prix>
+			<image>images/gadget/souris-optique-pixel.jpg</image>
+			<image>images/gadget/souris-optique-pixel-1.jpg</image>
+		</article>
+		<article>
+			<nom>Stealth Switch</nom>
+			<description>Vous souhaitiez vous offrir quelques minutes relax ? Le Stealth Switch sera votre arme fatale ! </description>
+			<prix>45,90€</prix>
+			<image>images/gadget/stealth-switch.jpg</image>
+			<image>images/gadget/stealth-switch-1.jpg</image>
+		</article>
+		<article>
+			<nom>Powerball</nom>
+			<description>Le Powerball est un nouveau gyroscope totalement révolutionnaire tenant dans la main et capable de générer une énorme quantité d'énergie et un couple extraordinaire quand vous activez son rotor interne.</description>
+			<prix>35,00€</prix>
+			<image>images/gadget/powerball.jpg</image>
+		</article>
+	</categorie>
+	<categorie>
+		<nom>Mode</nom>
+		<article>
+			<nom>Bonnet Barbe</nom>
+			<description>Le bonnet barbe, l'assurance d'une pilosité chaque jour renouvelée</description>
+			<prix>32,90€</prix>
+			<image>images/mode/bonnet-barbe.jpg</image>
+			<image>images/mode/bonnet-barbe-1.jpg</image>
+		</article>
+		<article>
+			<nom>T-Shirt Détecteur WiFi</nom>
+			<description>Ce tee-shirt dispose d'un détecteur de signal Wifi, et le fait savoir ! Equipé d'un petit module récepteur, vous connaitrez aisément l'intensité du réseau Wifi à votre portée. </description>
+			<prix>39,90€</prix>
+			<image>images/mode/t-shirt-detecteur-wifi.jpg</image>
+			<image>images/mode/t-shirt-detecteur-wifi-1.jpg</image>
+			<image>images/mode/t-shirt-detecteur-wifi-2.jpg</image>
+		</article>
+		<article>
+			<nom>T-Shirt Coder</nom>
+			<description>Coder ? On y perd son latin.</description>
+			<prix>45,90€</prix>
+			<image>images/mode/t-shirt-coder.jpg</image>
+			<image>images/mode/t-shirt-coder-1.jpg</image>
+		</article>
+		<article>
+			<nom>T-Shirt Jeux Video</nom>
+			<description>T-Shirt avec un bien beau slogan spécial gamer : Les Jeux Vidéo ont ruiné ma vie : Il m'en reste deux ! </description>
+			<prix>35,00€</prix>
+			<image>images/mode/t-shirt-les-jeux-video-ont-ruine-ma-vie.jpg</image>
+			<image>images/mode/t-shirt-les-jeux-video-ont-ruine-ma-vie-1.jpg</image>
+		</article>
+	</categorie>
+	<categorie>
+		<nom>Portable</nom>
+		<article>
+			<nom>Mini Ventillateur pour IPhone</nom>
+			<description>Le ventilateur iphone est le gadget à emporter partout avec vous !</description>
+			<prix>9,95€</prix>
+			<image>images/portable/ventilo-pour-iphone.jpg</image>
+			<image>images/portable/ventilo-pour-iphone-1.jpg</image>
+		</article>
+		<article>
+			<nom>Coque IPhone 4 Décapsuleur</nom>
+			<description>Avec cette coque intelligente concue avec undécapsuleur, vous serez toujours prêt à ouvrir votre boisson préférée!</description>
+			<prix>26,90€</prix>
+			<image>images/portable/coque-iphone-4-decapsuleur.jpg</image>
+			<image>images/portable/coque-iphone-4-decapsuleur-1.jpg</image>
+			<image>images/portable/coque-iphone-4-decapsuleur-2.jpg</image>
+		</article>  
+		<article>
+			<nom>Manette de Jeu pour écran tactile "Istick"</nom>
+			<description>Le stick qui transforme votre smartphone en console portable</description>
+			<prix>10,90€</prix>
+			<image>images/portable/manette-jeu-pour-ecran-tactile-istick.jpg</image>
+			<image>images/portable/manette-jeu-pour-ecran-tactile-istick-1.jpg</image>
+		</article>
+	</categorie>
+	<categorie>
+		<nom>USB</nom>
+		<article>
+			<nom>Chauffe-tasse Biscuit USB</nom>
+			<description>Rien ne vaut que de traîner sur ses sites préférés en compagnie d'un breuvage bien tiède juste à côté de vous. Un chocolat ? Un thé ? Un café ? Ce chauffe-tasse tout mignon en forme de petit gâteau gardera votre boisson bien au chaud jusqu'à 50° ! </description>
+			<prix>12,90€</prix>
+			<image>images/USB/chauffe-tasse-biscuit-usb.jpg</image>
+			<image>images/USB/chauffe-tasse-biscuit-usb-1.jpg</image>
+		</article>
+		<article>
+			<nom>Mini Aspirateur USB</nom>
+			<description>Fini les miettes de pain et autres poussières incrustées dans votre clavier, grâce à ce mini aspirateur USB. Accessoire bien pratique ! </description>
+			<prix>9,90€</prix>
+			<image>images/USB/mini-aspirateur-usb.jpg</image>
+		</article>  
+		<article>
+			<nom>Ventilateur Lumineux USB</nom>
+			<description>Un ventilateur USB avec tige flexible, idéal pour une utilisation sur un ordinateur portable. Petit plus : des LEDs incrustées pour une ambiance hors du commun. </description>
+			<prix>8,90€</prix>
+			<image>images/USB/ventilateur-lumineux-usb.jpg</image>
+			<image>images/USB/ventilateur-lumineux-usb-1.jpg</image>
+		</article>  
+		<article>
+			<nom>Mini Frigo USB</nom>
+			<description>Avouez qu'il est très désagréable, en plein été, d'aller se servir une canette fraîche dans le frigo de la cuisine, et de la voir se réchauffer très rapidement sur le bureau. Cette tracasserie est maintenant finie grâce à ce frigo USB...</description>
+			<prix>22,90€</prix>
+			<image>images/USB/frigo-usb.jpg</image>
+			<image>images/USB/frigo-usb-1.jpg</image>
+		</article>
+	</categorie>
+</gamme>

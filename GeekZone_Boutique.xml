@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<xml>
+	<boutique>
+		<nom>ALBERTVILLE - 73200</nom>
+		<adresse>32 rue Gambetta, Albertville 73200</adresse>
+		<tel>04 56 10 36 89</tel>
+		<horaire>Du lundi au samedi : 08h30 à 12h00 et 14h00 à 19h00</horaire>
+		<image>images/boutiques/boutique_albertville.jpg</image>
+	</boutique>
+	<boutique>
+		<nom>ANNECY - 74000</nom>
+		<adresse>46 avenue Genève, Annecy 74000</adresse>
+		<tel>04 50 57 01 13</tel>
+		<horaire>Du mardi au samedi : 9h00 à 12h30 et 14h30 à 19h30</horaire>
+		<horaire>Le dimanche : 9h00 à 12h30</horaire>
+		<image>images/boutiques/boutique_annecy.jpg</image>
+	</boutique>
+	<boutique>
+		<nom>CHAMBERY - 73000</nom>
+		<adresse>35 rue Jean Pierre Veyrat, Chambery 73000</adresse>
+		<tel>04 79 85 19 96</tel>
+		<horaire>Du mardi au samedi : 8h30 à 19h30</horaire>
+		<horaire>Le dimanche : 9h00 à 12h30</horaire>
+		<image>images/boutiques/boutique_chambery.jpg</image>
+	</boutique>
+	<boutique>
+		<nom>CLERMONT FERRAND - 63000</nom>
+		<adresse>11 bis rue Saint-Esprit, Clermont Ferrand 63000</adresse>
+		<tel>09 83 70 11 98</tel>
+		<horaire>Du mardi au samedi : 10h00 à 12h30 et 13h30 à 19h00</horaire>
+		<image>images/boutiques/boutique_clermont.jpeg</image>
+	</boutique>
+	<boutique>
+		<nom>GRENOBLE - 38000</nom>
+		<adresse>2 bis avenue St Roch, Grenoble 38000</adresse>
+		<tel>04 76 54 33 47</tel>
+		<horaire>Du mardi au samedi : 8h30 à 19h30</horaire>
+		<horaire>Le dimanche : 9h00 à 12h30</horaire>
+		<image>images/boutiques/boutique_grenoble.jpg</image>
+	</boutique>
+	<boutique>
+		<nom>LYON - 69002</nom>
+		<adresse>7 quai Célestins, Lyon 69002</adresse>
+		<tel>04 72 19 68 68</tel>
+		<horaire>Du lundi au samedi : 8h30 à 20h30</horaire>
+		<horaire>Le dimanche : 8h30 à 19h00</horaire>
+		<image>images/boutiques/boutique_lyon.jpg</image>
+	</boutique>
+	<boutique>
+		<nom>VALENCE - 26000</nom>
+		<adresse>84 route Beauvallon, Valence 26000</adresse>
+		<tel>04 75 56 27 77</tel>
+		<horaire>Du lundi au samedi : 08h30 à 12h00 et 14h00 à 19h00</horaire>
+		<image>images/boutiques/boutique_valence.jpg</image>
+	</boutique>
+</xml>
