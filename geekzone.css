@@ -1,0 +1,118 @@
+/* Balise */
+html {scroll-behavior: smooth;}
+
+body {
+	background-color: #d6d4d9;
+	font-family: "Franklin Gothic Medium";
+}
+
+h1 {
+	text-align: center;
+	font-style: italic;
+	color: #0b94ba;
+}
+
+p {line-height: 150%;}
+
+/* Bandeau */
+.bandeau {
+	background-color: #515151;
+	margin: -8px;
+	margin-bottom: 3%;
+	height: 180px;
+}
+#barre{
+	margin-top: -4%;
+	margin-left: 36%;
+	width: 410px;
+	background-color: #cccccc;
+	border-radius: 20px;
+	padding: 3px;
+}
+#bouton{
+	margin-top: 1%;
+	margin-left: 46%;
+	width: 100px;
+	background-color: #cccccc;
+	border-radius: 20px;
+	padding: 3px;
+}
+.lien {
+	position: relative;
+	top: 120px;
+	color: #4ec004;
+	font-style: italic;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+#LBoutique {left: 20%;}
+#LProduit {left: 60%;}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -40px;
+}
+
+/* Cadre */
+.info {
+	border-radius: 5px;
+	background: linear-gradient(to right, #0b94ba, #4ec004);
+	padding: 3px;
+	margin: 5%;
+}
+
+.module-info {
+	background: #515151;
+	color: #ffffff;
+	padding: 2rem;
+}
+
+#contour {background: linear-gradient(to right, #b40c0c, #c04904);}
+
+.titre {
+	font-weight: bold;
+	font-size: 24px;
+	margin-bottom: 2%;
+}
+
+/* Footer */
+.footer {
+	height: 35px;
+	background-color: #515151;
+	color: #4ec004;	
+	text-align: center;
+	padding-top: 16px;
+	font-style: italic;
+	margin: -8px;
+	margin-top: 3%;
+}
+
+#footer-index {
+	position: absolute;
+	width: 100%;
+	
+}
+
+/* Boutique */
+.img-boutique {
+	height: 350px;
+	width: 509px;
+	/*margin-right: 3%;*/
+}
+.txt-boutique {margin-left: 3%;}
+
+/* Produit */
+.img-produit {
+	left: 15%;
+	border-radius: 10px;
+	padding: 3px;
+	width: 200px;
+	height: 200px;
+}
+
+/* Div horizontales */
+.flex {display: flex;}
+#centre {justify-content: space-around;}

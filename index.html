@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GeekZone - Accueil</title>
+        <meta charset="UTF-8">
+        <link href="geekzone.css" rel="stylesheet">
+        <link href="icons.ico" rel="shortcut icon">
+    </head>
+	
+    <body>
+		<!--Bandeau du site-->
+        <div class="bandeau"> 
+			<a class="lien" id="LBoutique" href="boutique.php"> Nos Boutiques </a>
+			<a class="lien" id="LProduit" href="produit.php"> Nos Produits </a>
+			<map name="logo">
+				<area shape="rect" coords="9, 46, 190, 160" href="index.html">
+			</map>
+			<!--barre de recherche-->
+			<form action="index.php" method="get">
+				<div>
+					<img class="logo" src="logo.png" usemap="#logo">
+					<input name="produit" id= "barre" type="search" placeholder="ecrire le produit/boutique exactement comme il est ecrit sur le site" aria-label="Search">
+					<input id="bouton" type="submit" value="rechercher">
+				</div>
+			</form>
+        </div>
+		
+		<!--Corps du site-->
+		<div class="info" id="contour"><div class="module-info">
+			<div class="titre">Meilleures Ventes !</div>
+			
+			<div class="flex" id="centre">
+				<div>
+					<img class="img-produit" src="images\usb\ventilateur-lumineux-usb.jpg">
+					<p>
+						Glaçon Tetris</br>
+						8,90€
+					</p>
+				</div>
+				<div>
+					<img class="img-produit" src="images\mode\t-shirt-les-jeux-video-ont-ruine-ma-vie.jpg">
+					<p>
+						T-Shirt Jeux Video</br>
+						17,90€
+					</p>
+				</div>
+				<div>
+					<img class="img-produit" src="images\mode\bonnet-barbe.jpg">
+					<p>
+						Bonnet Barbe</br>
+						32,90€
+					</p>
+				</div>
+				<div>   
+				<img class="img-produit" src="images\portable\manette-jeu-pour-ecran-tactile-istick.jpg">
+					<p>
+						Glaçon Tetris</br>
+						8,90€
+					</p>
+				</div>
+			</div>
+		</div></div>
+		
+		<!-- Footer -->
+		<div class="footer" id="footer-index">
+			© 2021 GeekZone
+		 </div>
+    </body> 
+</html>
